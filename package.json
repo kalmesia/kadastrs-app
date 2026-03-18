@@ -1,0 +1,14 @@
+{
+  "name": "kadastrs-app",
+  "version": "1.0.0",
+  "description": "Kadastra karte ar zemes sludinājumu pārvaldību",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sql.js": "^1.10.0"
+  }
+}
